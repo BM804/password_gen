@@ -33,7 +33,7 @@ password_generator.py # Main application file
 1. Install Python  
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/BM804/password_gen.git
 
 Navigate to the folder:
 
